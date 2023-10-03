@@ -9,8 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Computer Engineering & Physics</p>
-    <p>undergraduate student</p>
+    <p>Undergraduate student in</p>
+    <p>Computer Engineering</p>
+    <p>and Physics at</p>
     <p>Sharif University of Technology</p>
 
 news: true  # includes a list of news items
